@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-spinner-using-styled-components/static/css/main.154884dd.css",
-    "main.js": "/react-spinner-using-styled-components/static/js/main.14845815.js",
+    "main.css": "/react-spinner-using-styled-components/static/css/main.23efc441.css",
+    "main.js": "/react-spinner-using-styled-components/static/js/main.b88489b9.js",
     "static/js/592.4605135a.chunk.js": "/react-spinner-using-styled-components/static/js/592.4605135a.chunk.js",
     "index.html": "/react-spinner-using-styled-components/index.html",
-    "main.154884dd.css.map": "/react-spinner-using-styled-components/static/css/main.154884dd.css.map",
-    "main.14845815.js.map": "/react-spinner-using-styled-components/static/js/main.14845815.js.map",
+    "main.23efc441.css.map": "/react-spinner-using-styled-components/static/css/main.23efc441.css.map",
+    "main.b88489b9.js.map": "/react-spinner-using-styled-components/static/js/main.b88489b9.js.map",
     "592.4605135a.chunk.js.map": "/react-spinner-using-styled-components/static/js/592.4605135a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.154884dd.css",
-    "static/js/main.14845815.js"
+    "static/css/main.23efc441.css",
+    "static/js/main.b88489b9.js"
   ]
 }
