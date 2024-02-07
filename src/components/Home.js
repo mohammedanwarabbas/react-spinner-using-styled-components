@@ -8,9 +8,8 @@ const spin = keyframes`
 100%{transform:rotate(360deg);}
 `;
 const flicker = keyframes`
-    0% { opacity: 1; }
-    50% { opacity: 0.2; }
-    100% { opacity: 1; }
+0%, 20%, 40%, 60%, 80%, 100% { opacity: 1; }
+  10%, 30%, 50%, 70%, 90% { opacity: 0.2; }
   `;
 
 const SpinnerDiv = styled.div`
