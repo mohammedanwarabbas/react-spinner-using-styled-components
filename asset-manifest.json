@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-spinner-using-styled-components/static/css/main.154884dd.css",
+    "main.js": "/react-spinner-using-styled-components/static/js/main.14845815.js",
+    "static/js/592.4605135a.chunk.js": "/react-spinner-using-styled-components/static/js/592.4605135a.chunk.js",
+    "index.html": "/react-spinner-using-styled-components/index.html",
+    "main.154884dd.css.map": "/react-spinner-using-styled-components/static/css/main.154884dd.css.map",
+    "main.14845815.js.map": "/react-spinner-using-styled-components/static/js/main.14845815.js.map",
+    "592.4605135a.chunk.js.map": "/react-spinner-using-styled-components/static/js/592.4605135a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.154884dd.css",
+    "static/js/main.14845815.js"
+  ]
+}
